@@ -1,0 +1,24 @@
+.qora{
+background-color: black;
+border-radius: 10px;
+width: 50px;
+padding-left: 3px;
+padding-right: 3px;
+}
+.mir{
+width: 50px;
+height: 50px;
+background-color: red;
+border-radius: 50px;}
+.cr7{width: 50px;
+height: 50px;
+background-color: rgb(251, 255, 0);
+border-radius: 50px;}
+.m10{
+width: 50px;
+height: 50px;
+background-color: rgb(94, 218, 12);
+border-radius: 50px;
+}
+
+
